@@ -1,0 +1,4 @@
+libbblite.so
+writer
+*.o
+.bblite-tmp.*
